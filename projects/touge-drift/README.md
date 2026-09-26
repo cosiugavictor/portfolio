@@ -53,17 +53,6 @@ Place selected images here and reference them in Markdown, for example:
 ![Vehicle Physics](assets/images/vehicle-physics.png)
 ![Route Generator](assets/images/route-generator.png)
 ```
-
-## Full Case Study
-
-Export the Figma case study as:
-
-`documents/touge-drift-case-study.pdf`
-
-Then enable this link:
-
-[Open PDF Case Study](documents/touge-drift-case-study.pdf)
-
 ---
 
 [← Back to portfolio](../../README.md)
