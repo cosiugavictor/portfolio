@@ -51,8 +51,6 @@ Use diagrams, editor screenshots, GIFs, or short notes to show implementation de
 ![my_profile](assets/images/my_profile.png)
 ![settings](assets/images/settings.png)
 
-[Open PDF Case Study](documents/monkey-tag-case-study.pdf)
-
 ---
 
 [← Back to portfolio](../../README.md)
