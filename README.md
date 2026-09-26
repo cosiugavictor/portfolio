@@ -15,6 +15,7 @@ Stylized touge racing project focused on vehicle handling, gameplay systems, pro
 **Focus:** Unity · C# · Vehicle Physics · Procedural Generation · Game Design · 3D Art
 
 [View project →](projects/touge-drift/README.md)
+[Follow on Instagram →](https://www.instagram.com/tougedriftgame/)
 
 ---
 
@@ -46,6 +47,12 @@ I am a Unity developer and 3D artist with 10+ years of experience working across
 
 My work usually sits between engineering and art: I like building systems that are practical for production while keeping direct control over how the final game looks and feels.
 
-## Contact
+## Social
 
+YouTube: [FunboosterGames](https://www.youtube.com/@FunboosterGames)
+Itch.io: [@cosiugavictor](https://github.com/cosiugavictor)
+Instagram: [@cosiugavictor](https://github.com/cosiugavictor)
+Assetstore: [@cosiugavictor](https://github.com/cosiugavictor)
+
+## Contact
 GitHub: [@cosiugavictor](https://github.com/cosiugavictor)
