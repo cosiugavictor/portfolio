@@ -47,12 +47,14 @@ I am a Unity developer and 3D artist with 10+ years of experience working across
 
 My work usually sits between engineering and art: I like building systems that are practical for production while keeping direct control over how the final game looks and feels.
 
+---
+
 ## Social
 
 YouTube: [FunboosterGames](https://www.youtube.com/@FunboosterGames)
-Itch.io: [@cosiugavictor](https://github.com/cosiugavictor)
-Instagram: [@cosiugavictor](https://github.com/cosiugavictor)
-Assetstore: [@cosiugavictor](https://github.com/cosiugavictor)
+Itch.io: [FunboosterGames](https://funboostergames.itch.io/)
+Instagram: [TougeDriftGame](https://www.instagram.com/tougedriftgame/)
+Assetstore: [FunboosterGames](https://assetstore.unity.com/publishers/96288)
 
 ## Contact
 GitHub: [@cosiugavictor](https://github.com/cosiugavictor)
