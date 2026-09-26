@@ -27,8 +27,6 @@ My work on the project covers the full production stack: gameplay programming, v
 
 Custom sim-cade vehicle systems including suspension behavior, longitudinal and lateral tire forces, drivetrain logic, assists, telemetry, weight transfer, and handling tuning.
 
-> Add screenshots, diagrams, or GIFs to `assets/images/`, `assets/svg/`, and `assets/gifs/`.
-
 ### Procedural Route Generation
 
 Runtime road generation built around deterministic seeds, authored road segments, curves and hairpins, streaming, progress tracking, and reusable environment systems.
