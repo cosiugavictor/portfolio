@@ -84,7 +84,7 @@ Gameplay HUD, pause flow, controller navigation, notifications, settings, and me
 
 ![Phys](assets/images/car_ph.png)
 
-**Unity · C# · Blender · Figma · Shader Graph / HLSL · Git**
+**Unity · C# · Blender · Figma · Shader Graph / HLSL · Git · Optimization**
 
 ## Gallery
 ---
