@@ -15,11 +15,13 @@ Stylized touge racing project focused on vehicle handling, gameplay systems, pro
 **Focus:** Unity · C# · Vehicle Physics · Procedural Generation · Game Design · 3D Art
 
 [View project →](projects/touge-drift/README.md)
+
 [Follow on Instagram →](https://www.instagram.com/tougedriftgame/)
 
 ---
 
 ### [Monkey Tag](projects/monkey-tag/README.md)
+
 ![Cover](projects/monkey-tag/assets/images/cover.png)
 
 Project case study covering my contribution, visual work, gameplay work, tools, and production material.
@@ -31,6 +33,7 @@ Project case study covering my contribution, visual work, gameplay work, tools, 
 ---
 
 ### [Capitalist](projects/capitalist/README.md)
+
 ![Cover](projects/capitalist/assets/images/gameplay.png)
 
 Project case study covering my contribution, game systems, visual work, and production material.
@@ -59,7 +62,10 @@ Instagram: [TougeDriftGame](https://www.instagram.com/tougedriftgame/)
 
 Assetstore: [FunboosterGames](https://assetstore.unity.com/publishers/96288)
 
+---
 
 ## Contact
+
 GitHub: [@cosiugavictor](https://github.com/cosiugavictor)
+
 Gmail: [@cosiuga](cosiuga@gmail.com)
