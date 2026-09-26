@@ -47,7 +47,9 @@ Gameplay HUD, pause flow, controller navigation, notifications, settings, and me
 ![Endrace](assets/images/endrace.png)
 ![Pause](assets/images/pause.png)
 ![Icons](assets/images/icons.png)
+
 ![Logo](assets/images/logo.png)
+
 ![StudioLogo](assets/images/funbooster_logo.png)
 
 ## Tools & Technology
