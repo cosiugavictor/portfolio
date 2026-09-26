@@ -52,9 +52,14 @@ My work usually sits between engineering and art: I like building systems that a
 ## Social
 
 YouTube: [FunboosterGames](https://www.youtube.com/@FunboosterGames)
+
 Itch.io: [FunboosterGames](https://funboostergames.itch.io/)
+
 Instagram: [TougeDriftGame](https://www.instagram.com/tougedriftgame/)
+
 Assetstore: [FunboosterGames](https://assetstore.unity.com/publishers/96288)
+
 
 ## Contact
 GitHub: [@cosiugavictor](https://github.com/cosiugavictor)
+Gmail: [@cosiuga](cosiuga@gmail.com)
