@@ -30,6 +30,8 @@ Project case study covering my contribution, visual work, gameplay work, tools, 
 ---
 
 ### [Capitalist](projects/capitalist/README.md)
+![Cover](projects/capitalist/assets/images/gameplay.png)
+
 Project case study covering my contribution, game systems, visual work, and production material.
 
 **Focus:** Unity · Game Development · 3D Art · UI/UX
