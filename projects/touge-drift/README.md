@@ -40,19 +40,23 @@ Gameplay camera architecture designed for chase-camera behavior, reusable shake 
 ### UI / UX
 
 Gameplay HUD, pause flow, controller navigation, notifications, settings, and menu systems designed for gamepad-first interaction.
+![Main](assets/images/main.png)
+![Play](assets/images/play.png)
+![Garage](assets/images/garage.png)
+![Settings](assets/images/settings.png)
+![About](assets/images/about.png)
+![Gameplay](assets/images/gameplay.png)
+![Endrace](assets/images/endrace.png)
+![Pause](assets/images/pause.png)
+![Icons](assets/images/icons.png)
+![Logo](assets/images/logo.png)
+![StudioLogo](assets/images/funbooster_logo.png)
 
 ## Tools & Technology
 
 **Unity · C# · Blender · Figma · Shader Graph / HLSL · Git**
 
 ## Gallery
-
-Place selected images here and reference them in Markdown, for example:
-
-```md
-![Vehicle Physics](assets/images/vehicle-physics.png)
-![Route Generator](assets/images/route-generator.png)
-```
 ---
 
 [← Back to portfolio](../../README.md)
