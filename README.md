@@ -9,7 +9,7 @@ This repository contains selected project case studies. Each project page is des
 ## Selected Projects
 
 ### [Touge Drift](projects/touge-drift/README.md)
-![Cover](touge-drift/assets/images/cover.png)
+![Cover](projects/touge-drift/assets/images/cover.png)
 Stylized touge racing project focused on vehicle handling, gameplay systems, procedural road generation, camera systems, UI, and 3D production.
 
 **Focus:** Unity · C# · Vehicle Physics · Procedural Generation · Game Design · 3D Art
