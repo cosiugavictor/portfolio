@@ -38,6 +38,7 @@ Gameplay camera architecture designed for chase-camera behavior, reusable shake 
 ### UI / UX
 
 Gameplay HUD, pause flow, controller navigation, notifications, settings, and menu systems designed for gamepad-first interaction.
+
 ![Main](assets/images/main.png)
 ![Play](assets/images/play.png)
 ![Garage](assets/images/garage.png)
