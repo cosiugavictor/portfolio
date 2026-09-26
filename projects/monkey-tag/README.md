@@ -50,6 +50,7 @@ Use diagrams, editor screenshots, GIFs, or short notes to show implementation de
 ![party_invitation](assets/images/party_invitation.png)
 ![my_profile](assets/images/my_profile.png)
 ![settings](assets/images/settings.png)
+![icons](assets/images/icons.png)
 
 ---
 
