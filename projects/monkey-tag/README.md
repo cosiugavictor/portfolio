@@ -6,8 +6,6 @@
 
 Monkey Tag is one of the selected projects in my portfolio. This page is prepared as a visual case study for screenshots, production breakdowns, diagrams, and a full PDF exported from Figma.
 
-> **Hero image:** add `assets/images/cover.png`
-
 ## My Contribution
 
 Use this section to describe exactly what I worked on in the project.
@@ -42,16 +40,16 @@ Use diagrams, editor screenshots, GIFs, or short notes to show implementation de
 
 ## Gallery
 
-```md
-![Gameplay](assets/images/gameplay-01.png)
-![Environment](assets/images/environment-01.png)
-```
-
-## Full Case Study
-
-Export the Figma presentation as:
-
-`documents/monkey-tag-case-study.pdf`
+![create_room](assets/images/create_room.png)
+![customize](assets/images/customize.png)
+![daily_tasks](assets/images/daily_tasks.png)
+![end_screen](assets/images/end_screen.png)
+![gameplay](assets/images/gameplay.png)
+![language](assets/images/language.png)
+![main](assets/images/main.png)
+![party_invitation](assets/images/party_invitation.png)
+![my_profile](assets/images/my_profile.png)
+![settings](assets/images/settings.png)
 
 [Open PDF Case Study](documents/monkey-tag-case-study.pdf)
 
