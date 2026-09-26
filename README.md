@@ -4,6 +4,27 @@
 
 I build gameplay systems, vehicle physics, procedural tools, UI, technical art, and stylized 3D environments in Unity.
 
+---
+## Social
+
+YouTube: [FunboosterGames](https://www.youtube.com/@FunboosterGames)
+
+Itch.io: [FunboosterGames](https://funboostergames.itch.io/)
+
+Instagram: [TougeDriftGame](https://www.instagram.com/tougedriftgame/)
+
+Assetstore: [FunboosterGames](https://assetstore.unity.com/publishers/96288)
+
+---
+
+## Contact
+
+GitHub: [@cosiugavictor](https://github.com/cosiugavictor)
+
+Gmail: [@cosiuga](cosiuga@gmail.com)
+
+---
+
 This repository contains selected project case studies. Each project page is designed to work as a fast visual overview, with room for screenshots, diagrams, SVGs, GIFs, and full PDF case studies exported from Figma.
 
 ## Selected Projects
@@ -49,23 +70,3 @@ Project case study covering my contribution, game systems, visual work, and prod
 I am a Unity developer and 3D artist with 10+ years of experience working across gameplay, tools, physics, UI/UX, shaders, technical art, and asset production.
 
 My work usually sits between engineering and art: I like building systems that are practical for production while keeping direct control over how the final game looks and feels.
-
----
-
-## Social
-
-YouTube: [FunboosterGames](https://www.youtube.com/@FunboosterGames)
-
-Itch.io: [FunboosterGames](https://funboostergames.itch.io/)
-
-Instagram: [TougeDriftGame](https://www.instagram.com/tougedriftgame/)
-
-Assetstore: [FunboosterGames](https://assetstore.unity.com/publishers/96288)
-
----
-
-## Contact
-
-GitHub: [@cosiugavictor](https://github.com/cosiugavictor)
-
-Gmail: [@cosiuga](cosiuga@gmail.com)
