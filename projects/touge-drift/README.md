@@ -54,17 +54,22 @@ Gameplay HUD, pause flow, controller navigation, notifications, settings, and me
 
 ## 3D Assets
 
-![shelter](assets/images/Japanese-Roadside-Bus-Shelter.png)
-![Play](assets/images/play.png)
-![Garage](assets/images/garage.png)
-![Settings](assets/images/settings.png)
-![About](assets/images/about.png)
-![Gameplay](assets/images/gameplay.png)
-![Endrace](assets/images/endrace.png)
-![Pause](assets/images/pause.png)
-![Icons](assets/images/icons.png)
+![House](assets/images/House.png)
+![R32](assets/images/r32.png)
+![Bench](assets/images/Bench.png)
+![NoticeBoard](assets/images/NoticeBoard.png)
+![Board](assets/images/Board.png)
+![Shelter](assets/images/Shelter.png)
+![VendingMachineSet](assets/images/VendingMachineSet.png)
+![Mailboxes](assets/images/Mailboxes.png)
+![Tree](assets/images/Tree.png)
+![SignSet](assets/images/SignSet.png)
+![Poles](assets/images/Poles.png)
 
 ## Tools & Technology
+
+![Editor](assets/images/editor.png)
+![Procedural](assets/images/procedural.png)
 
 **Unity · C# · Blender · Figma · Shader Graph / HLSL · Git**
 
