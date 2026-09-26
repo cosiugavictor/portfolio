@@ -41,25 +41,6 @@ I am a Unity developer and 3D artist with 10+ years of experience working across
 
 My work usually sits between engineering and art: I like building systems that are practical for production while keeping direct control over how the final game looks and feels.
 
-## Portfolio Structure
-
-```text
-portfolio/
-├── README.md
-└── projects/
-    ├── touge-drift/
-    │   ├── README.md
-    │   ├── assets/
-    │   │   ├── images/
-    │   │   ├── svg/
-    │   │   └── gifs/
-    │   └── documents/
-    ├── monkey-tag/
-    │   └── ...
-    └── capitalist/
-        └── ...
-```
-
 ## Contact
 
 GitHub: [@cosiugavictor](https://github.com/cosiugavictor)
