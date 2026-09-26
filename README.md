@@ -19,12 +19,13 @@ Stylized touge racing project focused on vehicle handling, gameplay systems, pro
 ---
 
 ### [Monkey Tag](projects/monkey-tag/README.md)
+
+![Cover](projects/monkey-tag/assets/images/cover.png)
 Project case study covering my contribution, visual work, gameplay work, tools, and production material.
 
 **Focus:** Unity · Game Development · 3D Art · UI/UX
 
 [View project →](projects/monkey-tag/README.md)
-![Cover](projects/monkey-tag/assets/images/cover.png)
 
 ---
 
