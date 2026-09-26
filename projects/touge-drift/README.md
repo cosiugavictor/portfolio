@@ -54,7 +54,7 @@ Gameplay HUD, pause flow, controller navigation, notifications, settings, and me
 
 ## 3D Assets
 
-![Main](assets/images/main.png)
+![shelter](assets/images/Japanese-Roadside-Bus-Shelter.png)
 ![Play](assets/images/play.png)
 ![Garage](assets/images/garage.png)
 ![Settings](assets/images/settings.png)
