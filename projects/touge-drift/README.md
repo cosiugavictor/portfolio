@@ -8,7 +8,7 @@ Touge Drift is a stylized touge racing project built around responsive sim-cade 
 
 My work on the project covers the full production stack: gameplay programming, vehicle systems, procedural tools, cameras, UI, technical art, and 3D asset production.
 
-> **Hero image:** add `assets/images/cover.png`
+!(assets/images/cover.png)
 
 ## My Role
 
